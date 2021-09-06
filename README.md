@@ -10,11 +10,11 @@ ALso we can Add items to our Grocery store .
 
  # FILES
  
- AddingNewProducts.ipynb
- records.json
- Selling_Products.ipynb
- records.json
- Sales.json
+ AddingNewProducts.ipynb 
+ records.json 
+ Selling_Products.ipynb 
+ records.json 
+ Sales.json 
 
 # PRODUCT FEATURES
  Each product has a Unique Product ID
